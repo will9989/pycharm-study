@@ -67,6 +67,7 @@ var temp = str.indexOf('text');
 alert(temp);
 */
 
+//console窗口調試JS代碼
 /*
 console.log('123');
 */
